@@ -1,1 +1,12 @@
-https://open.alberta.ca/opendata/average-weekly-earnings-including-overtime-alberta
+-	Calgary traffic incidents dataset: This is a live dataset which contains information about all reported traffic incidents in Calgary from 2016, within the scope of this project, only data from 2019 to 2023 is selected.
+Data source: https://data.calgary.ca/Transportation-Transit/Traffic-Incidents/35ra-9556/data_preview.
+-	Calgary community boundaries: This is a geographic dataset which contains information about all communities in Calgary including Name, Class, Sector and Boundary.
+Data source: https://data.calgary.ca/Base-Maps/Community-Boundaries/ab7m-fwn6
+-	Calgary street centreline: This is a geographic dataset which contains information about all streets within Calgary, including Name, Full name, Type, Class, and Boundary. These streets are split into smaller lines at the intersection of the streets.
+Data source: https://data.calgary.ca/Transportation-Transit/Street-Centreline/4dx8-rtm5/data_preview
+-	Daily weather in CALGARY INTL A station: This dataset contains daily weather which was collected in INTL A Station (located at Calgary International Airport) including: Temperature, Snow, Rain, etc.
+Data source: https://climate.weather.gc.ca
+-	Calgary four quadrants’ boundaries: This is a geographic dataset which contains Name and Boundary of four quadrants in Calgary (Southeast, Southwest, Northeast, Northwest).
+Data source: https://data.calgary.ca/Base-Maps/City-Quadrants/g2n2-qnvh/data_preview
+-	Calgary downtown boundary: This is a map which present boundary of Calgary Downtown. Since this is only an image, it is needed to convert it to Geospatial dataset.
+Data source: https://www150.statcan.gc.ca/n1/pub/91f0015m/2021001/m-c/m-c-calgary-eng.pdf
